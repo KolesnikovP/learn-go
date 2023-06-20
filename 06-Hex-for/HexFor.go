@@ -42,4 +42,5 @@ func main() {
 	for i := range names {
 		fmt.Printf("i is %d .It's just an index \n", i)
 	}
+
 }
